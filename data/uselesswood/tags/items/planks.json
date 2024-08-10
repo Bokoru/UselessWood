@@ -42,10 +42,6 @@
 			"required": false
 		},
 		{
-			"id": "biomesoplenty:magic_planks",
-			"required": false
-		},
-		{
 			"id": "alexscaves:pewen_planks",
 			"required": false
 		},

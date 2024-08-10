@@ -42,10 +42,6 @@
 			"required": false
 		},
 		{
-			"id": "#biomesoplenty:magic_logs",
-			"required": false
-		},
-		{
 			"id": "#alexscaves:pewen_logs",
 			"required": false
 		},
@@ -115,10 +111,6 @@
 		},
 		{
 			"id": "#ecologics:azalea_logs",
-			"required": false
-		},
-		{
-			"id": "#ecologics:flowering_azalea_logs",
 			"required": false
 		},
 		{
