@@ -1,0 +1,133 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#biomesoplenty:fir_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:redwood_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:mahogany_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:jacaranda_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:palm_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:willow_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:dead_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:magic_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:umbran_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:hellbark_logs",
+			"required": false
+		},
+		{
+			"id": "#biomesoplenty:magic_logs",
+			"required": false
+		},
+		{
+			"id": "#alexscaves:pewen_logs",
+			"required": false
+		},
+		{
+			"id": "#alexscaves:thornwood_logs",
+			"required": false
+		},
+		{
+			"id": "#cobblemon:apricorn_logs",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:fiery_log",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:fiery_wood",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:stripped_fierylog",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:lavic_stem",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:lavic_wood",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:stripped_lavic_stem",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:glaciated_log",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:glaciated_wood",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:stripped_glaciatedlog",
+			"required": false
+		},
+		{
+			"id": "#forbidden_arcanus:fungyss_stems",
+			"required": false
+		},
+		{
+			"id": "#forbidden_arcanus:mysterywood_logs",
+			"required": false
+		},
+		{
+			"id": "#forbidden_arcanus:edelwood_logs",
+			"required": false
+		},
+		{
+			"id": "#ecologics:coconut_logs",
+			"required": false
+		},
+		{
+			"id": "#ecologics:walnut_logs",
+			"required": false
+		},
+		{
+			"id": "#ecologics:azalea_logs",
+			"required": false
+		},
+		{
+			"id": "#ecologics:flowering_azalea_logs",
+			"required": false
+		},
+		{
+			"id": "#ecologics:flowering_azalea_logs",
+			"required": false
+		},
+		{
+			"id": "#forge:logs/archwood",
+			"required": false
+		}
+	]
+}

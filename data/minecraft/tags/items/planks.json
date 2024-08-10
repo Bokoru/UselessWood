@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "flying_stuff:f_iery_planks",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:lavic_planks",
+			"required": false
+		},
+		{
+			"id": "flying_stuff:glaciated_planks",
+			"required": false
+		}
+	]
+}
