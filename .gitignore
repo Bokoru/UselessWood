@@ -1,0 +1,12 @@
+# Ignore Everything by Default
+*
+
+# Include this gitignore
+!.gitignore
+
+# Include the pack.mcmeta and pack.png files.
+!pack.mcmeta
+!pack.png
+
+# Include everything in the data folder.
+!data/*
