@@ -1,8 +1,10 @@
 # Ignore Everything by Default
 *
 
-# Include this gitignore
+# Include git related files
 !.gitignore
+!README.md
+!LICENSE.txt
 
 # Include the pack.mcmeta and pack.png files.
 !pack.mcmeta
