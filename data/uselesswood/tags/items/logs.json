@@ -120,6 +120,22 @@
 		{
 			"id": "#forge:logs/archwood",
 			"required": false
+		},
+		{
+			"id": "#regions_unexplored:brimwood_logs",
+			"required": false
+		},
+		{
+			"id": "#regions_unexplored:cobalt_logs",
+			"required": false
+		},
+		{
+			"id": "#regions_unexplored:dead_logs",
+			"required": false
+		},
+		{
+			"id": "#regions_unexplored:yellow_bioshroom_logs",
+			"required": false
 		}
 	]
 }
